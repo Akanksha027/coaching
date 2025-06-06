@@ -128,8 +128,9 @@ const HeroSection: React.FC = () => {
 
             {/* Headline */}
             <div className="space-y-4">
-              <h1 className="text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
-                Inspire healthy habits in others.
+              <h1 className="text-5xl lg:text-7xl font-bold text-gray-900 leading-tight">
+              Education at
+              Your Fingertips
               </h1>
               <p className="text-xl text-gray-600 leading-relaxed max-w-lg">
                 Use VOLVs to create automated messages that help you connect with your followers, and improve their lives by forming healthy habits.
